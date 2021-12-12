@@ -5,12 +5,12 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-::selection{
+::selecti
   color: #fff;
   background:#56baed;
 }
 body{
-  background:#56baed;
+  background:red;
 }
 .select-box, .play-board, .result-box{
   position: absolute;
